@@ -8,7 +8,7 @@ Application which demonstrates Encryption, Authentication & Security while conne
 
 ## Concepts Implemented
 
-App also showcase the concepts of `Database Encryption`, `Mongoose Encryption`, `Hashing` & Salting via `Bcrypt`.
-Also implemented `Cookies` & Sessions using `Passport.Js`
+App also showcase the concepts of `Database Encryption`, `Mongoose Encryption`, `Hashing` & `Salting` via `Bcrypt`.
+Also implemented `Cookies` & `Sessions` using `Passport.Js`
 
 
